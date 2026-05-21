@@ -8,7 +8,7 @@ github学习的开始随手记
 
 下载完成后添加github上的自动刷新hosts项目的url（此处使用国内镜像版更快）
 url:https://raw.hellogithub.com/hosts
-
+![图片介绍](./switchhosts.png)
 
 通过这样就可以流畅使用github啦！
 
